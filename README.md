@@ -2,6 +2,8 @@
 
 北京科技大学中文简历 LaTeX 模板。
 
+![模板效果预览](images/preview.png)
+
 ## 致谢
 本模板基于[哈尔滨工业大学（威海）中文简历模板 hitwh-cv-zh](https://github.com/maohy0/hitwh-cv-zh)调整而来（其又基于[西北工业大学中文CV模板](https://www.overleaf.com/latex/templates/npu-cv/mncqzxhvfzrx)和[北京邮电大学BUPT简历模板](https://github.com/Yokumii/BUPT-CV-Template)），感谢以上模板的作者！
 
